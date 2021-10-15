@@ -1,0 +1,6 @@
+framework module WyhCornerRadius {
+  umbrella header "WyhCornerRadius-umbrella.h"
+
+  export *
+  module * { export * }
+}

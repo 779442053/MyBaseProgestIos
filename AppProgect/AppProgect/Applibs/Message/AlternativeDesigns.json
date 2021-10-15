@@ -1,0 +1,13 @@
+{
+    "alternate-error": {
+        "buttonBackgroundImageName": "NotificationButtonBackground.png",
+        "buttonTitleTextColor": "#FF0040",
+        "subTitleFontSize": 14,
+        "subTitleTextColor": "#e96650",
+        "iconImage": "NotificationBackgroundErrorIcon.png",
+        "titleTextColor": "#48FCEB",
+        "titleFontSize": 14,
+        "backgroundColor": "#e96650",
+        "opacity": 0.95
+    }
+}
